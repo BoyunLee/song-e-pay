@@ -1,4 +1,4 @@
-![3D_SongE]([https://github.com/user-attachments/assets/2af200f6-86c3-4ea6-893e-9a7bb772c532](https://github.com/BoyunLee/song-e-pay/blob/main/frontend/public/images/3D_SongE.png))
+![3D_SongE](https://github.com/BoyunLee/song-e-pay/blob/main/frontend/public/images/3D_SongE.png)
 
 <br>
 
