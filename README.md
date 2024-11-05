@@ -75,14 +75,13 @@ KB IT's Your Life 5기 최종프로젝트 <br>
 
 ![map.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/map.png)
 
-<h3>Schedule Page</h3>
-
-![schedule.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/schedule.png)
-
 <h3>Reservation Page</h3>
 
 ![reservation.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/reservation.png)
 
+<h3>Schedule Page</h3>
+
+![schedule.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/schedule.png)
 
 
 
