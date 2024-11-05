@@ -59,13 +59,28 @@ KB IT's Your Life 5기 최종프로젝트
 <br>
 
 # 주요 화면
-<h3>메인화면</h3>
+<h3>Main Page</h3>
 
 ![main.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/main.png)
+
+<h3>My Page</h3>
+
 ![my.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/my.png)
+
+<h3>Exchange Rate Page</h3>
+
 ![exchangerate.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/exchangerate.png)
+
+<h3>Map Page</h3>
+
 ![map.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/map.png)
+
+<h3>Schedule Page</h3>
+
 ![schedule.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/schedule.png)
+
+<h3>Reservation Page</h3>
+
 ![reservation.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/reservation.png)
 
 
