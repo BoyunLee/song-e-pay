@@ -46,6 +46,7 @@ KB IT's Your Life 5기 최종프로젝트 <br>
 - 프로젝트의 주제 : 외국인 여행객을 위한 전자지갑 서비스<br>
 - 타겟 사용자 : 한국을 방문하는 외국인 관광객 그 중에서도 동남아시아<br>
 - 기획 의도 : 환율 확인, 환전, 송금, 결제를 한 곳에서 할 수 있는 서비스를 통해 외국인 관광객들이 편리하게 한국에서 금융 서비스를 이용할 수 있도록 지원하는 것
+- 프로젝트에 발표 자료 : 자세한 내용은 [PPT](https://github.com/BoyunLee/song-e-pay/blob/main/project_proposal/P7-3_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9CPPT.pdf)을 참조하세요.
 
 <br>
 
@@ -106,7 +107,7 @@ KB IT's Your Life 5기 최종프로젝트 <br>
   <img src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
-![schedule.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/시스템아키텍처.png)
+![schedule.png](https://github.com/BoyunLee/song-e-pay/blob/main/project_proposal/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png)
 
 
 
