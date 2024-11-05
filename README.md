@@ -6,12 +6,12 @@
 
 KB IT's Your Life 5기 최종프로젝트 <br>
 편리한 금융 생활을 위한 전자 지갑 서비스
+KB IT's Your Life 5기 최종프로젝트 최우수상 수상
+![SongE](https://github.com/BoyunLee/song-e-pay/blob/main/image/final.PNG)
 
 <br>
 
 # 버섯도적단
-
-![SongE](https://github.com/BoyunLee/song-e-pay/blob/main/image/final.PNG)
 
 | <img src="https://github.com/BoyunLee.png" width="80"> | <img src="https://github.com/sojinnuna.png" width="80"> | <img src="https://github.com/ybon1107.png" width="80"> | <img src="https://github.com/ssooomm.png" width="80"> |  <img src="https://github.com/yesslee.png" width="80"> | <img src="https://github.com/cyh000127.png" width="80"> | <img src="https://github.com/ddubuk228.png" width="80"> |
 | :----------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------: |
