@@ -11,6 +11,8 @@ KB IT's Your Life 5기 최종프로젝트 <br>
 
 # 버섯도적단
 
+![SongE](https://github.com/BoyunLee/song-e-pay/blob/main/frontend/public/images/final.pdf)
+
 | <img src="https://github.com/BoyunLee.png" width="80"> | <img src="https://github.com/sojinnuna.png" width="80"> | <img src="https://github.com/ybon1107.png" width="80"> | <img src="https://github.com/ssooomm.png" width="80"> |  <img src="https://github.com/yesslee.png" width="80"> | <img src="https://github.com/cyh000127.png" width="80"> | <img src="https://github.com/ddubuk228.png" width="80"> |
 | :----------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------: |
 |         [이보윤](https://github.com/BoyunLee)          |         [김소진](https://github.com/sojinnuna)          |         [이예본](https://github.com/ybon1107)          |         [오수민](https://github.com/ssooomm)          |         [이예슬](https://github.com/yesslee)          |         [최윤혁](https://github.com/cyh000127)          |         [황정현](https://github.com/ddubuk228)          |
