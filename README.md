@@ -28,6 +28,7 @@ KB IT's Your Life 5기 최종프로젝트 최우수상 수상
 - 🍄 프로젝트 발표 자료 : [바로가기](https://github.com/BoyunLee/song-e-pay/blob/main/project_proposal/P7-3_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9CPPT.pdf) <br>
 - 🎥 홍보 영상 : [바로가기](https://drive.google.com/file/d/1UkoZNkEHmLKtGLDq3yU9m1WtTev0kOiA/view?usp=drive_link) <br>
 - 🎥 시연 영상 : [바로가기](https://drive.google.com/file/d/1IZ-fjrbJJ8tq1ABcHmEo2fI-5DCuaAQ9/view?usp=drive_link) <br>
+- 🖥 배포 : [사용해보기](http://35.216.90.170)
   
 
 <br>
