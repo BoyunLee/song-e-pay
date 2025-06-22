@@ -28,6 +28,27 @@ KB IT's Your Life 5기 최종프로젝트 최우수상 수상
 - 🎥 홍보 영상 : [바로가기](https://drive.google.com/file/d/1UkoZNkEHmLKtGLDq3yU9m1WtTev0kOiA/view?usp=drive_link) <br>
 - 🎥 시연 영상 : [바로가기](https://drive.google.com/file/d/1IZ-fjrbJJ8tq1ABcHmEo2fI-5DCuaAQ9/view?usp=drive_link) <br>
 - 🖥 배포 : [사용해보기](http://35.216.90.170)
+
+<br>
+
+# 기술 스택
+<h3>Frontend</h3> 
+<div style="display: flex; gap: 8px;">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+</div>
+
+<h3>Backend</h3>
+<div style="display: flex; gap: 8px;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Legacy-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+</div>
+
+<h3>DB</h3>
+<div style="display: flex;">
+  <img src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</div>
   
 
 <br>
@@ -69,25 +90,6 @@ KB IT's Your Life 5기 최종프로젝트 최우수상 수상
 ![schedule.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/schedule.png)
 
 <br>
-
-# 기술 스택
-<h3>Frontend</h3> 
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-</div>
-
-<h3>Backend</h3>
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div>
-
-<h3>DB</h3>
-<div style="display: flex;">
-  <img src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-</div>
 
 ![schedule.png](https://github.com/BoyunLee/song-e-pay/blob/main/project_proposal/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png)
 
