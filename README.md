@@ -6,7 +6,7 @@
 
 KB IT's Your Life 5기 최종프로젝트 <br>
 편리한 금융 생활을 위한 전자 지갑 서비스
-KB IT's Your Life 5기 최종프로젝트 최우수상 수상
+KB IT's Your Life 5기 최종프로젝트 최우수상
 
 <br>
 
